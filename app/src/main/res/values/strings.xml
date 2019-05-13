@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindJobApp</string>
+    <string name="strRed">Red</string>
+    <string name="strGreen">Green</string>
+    <string name="strYellow">Yellow</string>
+    <string name="tvInstructions">you can set background color on overflow menu.</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
